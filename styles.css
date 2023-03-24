@@ -46,7 +46,7 @@ html, body{
 }
 
 .outer.active-loader-2{
-    animation: rotate 3s ease;
+    animation: rotate2 3s ease;
 }
 
 @keyframes rotate2 {
